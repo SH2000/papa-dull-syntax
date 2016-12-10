@@ -1,0 +1,15 @@
+{
+    "name": "papa-dull-syntax",
+    "theme": "syntax",
+    "version": "0.0.0",
+    "description": "Dull color syntax theme for Atom community",
+    "keywords": [
+        "syntax",
+        "theme"
+    ],
+    "repository": "https://github.com/SH2000/papa-dull-syntax",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    }
+}
